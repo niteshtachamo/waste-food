@@ -68,7 +68,7 @@ if (isset($_POST['verify'])) {
                 <div class="btn">
                     <button type="submit" name="verify">Verify</button>
                     <br>
-                    <a href="signin.php" class="btn-box">Login</a>
+                    <a href="signin.php" class=" btn-box">Login</a>
                 </div>
             </form>
         </div>
